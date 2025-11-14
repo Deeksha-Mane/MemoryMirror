@@ -1,0 +1,30 @@
+{
+  "persons": {
+    "deeksha": {
+      "name": "Deeksha",
+      "relationship": "College Friend",
+      "language_preference": "en",
+      "voice_message": "Hey there! Great to see you, buddy! How have you been?",
+      "voice_message_translations": {
+        "hi": "अरे यार! तुम्हें देखकर बहुत खुशी हुई! कैसे हो?",
+        "es": "¡Hola amigo! ¡Qué bueno verte! ¿Cómo has estado?"
+      }
+    },
+    "sakshi": {
+      "name": "Sakshi",
+      "relationship": "College Friend",
+      "language_preference": "hi",
+      "voice_message": "Hi friend! Remember our college days? Hope you're doing well!",
+      "voice_message_translations": {
+        "hi": "हाय दोस्त! हमारे कॉलेज के दिन याद हैं? उम्मीद है तुम ठीक हो!",
+        "en": "Hi friend! Remember our college days? Hope you're doing well!"
+      }
+    }
+  },
+  "settings": {
+    "default_language": "en",
+    "recognition_threshold": 0.6,
+    "audio_enabled": true,
+    "message_cooldown_seconds": 30
+  }
+}

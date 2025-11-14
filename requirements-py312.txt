@@ -1,0 +1,12 @@
+# Python 3.12 Compatible Requirements for Memory Mirror
+streamlit>=1.28.0
+opencv-python>=4.8.0
+numpy>=1.24.0
+Pillow>=10.0.0
+gtts>=2.4.0
+pygame>=2.5.0
+
+# Note: DeepFace and TensorFlow may have compatibility issues with Python 3.12
+# Install these separately if needed:
+# pip install tensorflow>=2.15.0
+# pip install deepface>=0.0.80
