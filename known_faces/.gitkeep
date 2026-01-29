@@ -1,0 +1,10 @@
+# This directory stores face images for recognition
+# Create subdirectories for each person and add their photos
+# Example structure:
+# known_faces/
+#   ├── person1/
+#   │   ├── photo1.jpg
+#   │   └── photo2.jpg
+#   └── person2/
+#       ├── photo1.jpg
+#       └── photo2.jpg

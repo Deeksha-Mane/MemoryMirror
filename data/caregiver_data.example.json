@@ -1,0 +1,32 @@
+{
+  "persons": {
+    "person1": {
+      "name": "John Doe",
+      "relationship": "Family Member",
+      "language_preference": "en",
+      "voice_message": "Hello! Great to see you!",
+      "voice_message_translations": {
+        "hi": "नमस्ते! आपको देखकर खुशी हुई!",
+        "es": "¡Hola! ¡Qué bueno verte!",
+        "fr": "Bonjour! Ravi de te voir!"
+      }
+    },
+    "person2": {
+      "name": "Jane Smith",
+      "relationship": "Friend",
+      "language_preference": "en",
+      "voice_message": "Hi there! How have you been?",
+      "voice_message_translations": {
+        "hi": "नमस्ते! कैसे हो?",
+        "es": "¡Hola! ¿Cómo has estado?",
+        "fr": "Salut! Comment vas-tu?"
+      }
+    }
+  },
+  "settings": {
+    "default_language": "en",
+    "recognition_threshold": 0.6,
+    "audio_enabled": true,
+    "message_cooldown_seconds": 30
+  }
+}
