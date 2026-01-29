@@ -39,8 +39,6 @@ A real-time face recognition prototype built with Streamlit, OpenCV, and DeepFac
    python run_memory_mirror.py
    ```
 
-📖 **For detailed setup instructions, see [SETUP.md](SETUP.md)**
-
 ## Privacy & Security
 
 ⚠️ **Important**: This application handles personal data (face images and information).
